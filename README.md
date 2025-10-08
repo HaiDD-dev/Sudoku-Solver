@@ -1,2 +1,1 @@
-# Sudoku-Solver
-not done yet
+# Sudoku Solver
